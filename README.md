@@ -1,4 +1,4 @@
-📊 End-to-End Marketing Analytics & Consumer Segmentation                                                                                                                  --Marketlytics: A 360° Marketing Intelligence Report
+📊 Predictive Consumer Purchase & Multi-Channel Campaign Analytics
 
 📋 Project Overview
 
@@ -11,6 +11,32 @@ Campaign Analytics: Evaluates the ROI of 6 distinct campaigns and identifies Win
 Consumer Analytics: Deep dives into the customer profile, revealing that highly educated individuals (Graduation/PhD) form the core customer base.
 
 Purchase Analytics: Uses Power BI’s Key Influencers AI visual to determine that high income and household composition are the strongest predictors of high sales and campaign acceptance.
+
+Dashboard 1 :
+Compares 6 marketing campaigns across product categories, purchase volumes, revenue contribution, and preferred purchase channels. Identifies which campaigns drove the most conversions and which products carried the revenue.
+- 13.44K = Campaign count ; 8.96K = Purchases ; ₹681K = Wine revenue
+Camp6 dominated with 334 purchases — more than double Camp4 (167) and Camp3 (163), Camp6 had the strongest offer
+Wine (₹681K) and Meat (₹374K) together = ~83% of all revenue 
+Store is the #1 purchase channel (13.0K) vs Web (9.2K) — offline still dominates despite digital presence
+Camp2 had only 30 purchases — lowest performer, candidate for budget reallocation
+Camp5 drives 22% of average total sales despite mid-tier purchase volume — high value per transaction
+
+Dashboard 2 :
+Deep customer demographic profiling — education, marital status, household composition (kids/teens), income distribution across campaigns, age-based purchase behavior, and individual customer records.
+- 2.24K = Customers ; 57.19 = Avg age ; ₹79K = Avg income Camp1
+1,127 customers are Graduation-level educated — the single largest segment, nearly double the next (PhD: 486).
+58% of customers have no kids at home — freedom to spend on premium products like Wine and Meat
+Average customer age is 57 — this is a mature, high-income demographic, not a young digital-first audience.
+Camp1 customers earn ₹79K avg income — highest across all camps, explaining why Camp1 has highest campaign acceptance among premium buyers
+Married customers (864) form the largest marital segment — family-stage buyers with stable income and established purchase habits
+
+Dashboard 3:
+AI-driven root cause analysis using Power BI Key Influencers visual. Identifies which customer attributes (income, household, web visits) most strongly predict high total sales and campaign acceptance — with exact multiplier values.
+- 7.82x = Income lift Camp1 ; 172.2 = Avg sales increase ; 3.13x = Web visits lift
+Income above ₹67,381 increases average total sales by 172.2 — the single strongest predictor of revenue
+No kids at home increases sales by 159.1 — household composition is nearly as powerful as income
+Website visits 3 or less paradoxically increases sales by 141.9 — suggesting low-digital, high-spend offline buyers are the premium segment . Income above ₹60,585 makes Camp1 acceptance 7.82x more likely — a very precise targeting threshold for Campaign 1 replication
+
 
 💡 Top Business Insights
 
